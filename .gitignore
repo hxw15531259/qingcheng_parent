@@ -1,2 +1,5 @@
 gitTest.iml
 .idea/
+target/
+.jar
+out/
